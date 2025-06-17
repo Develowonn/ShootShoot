@@ -1,3 +1,23 @@
-# ShootingGameUnreal
+# 🎯 Shoot! Shoot  
+**Unreal Engine 5로 제작한 타겟 슈팅 게임**
 
-Developed with Unreal Engine 5
+---
+
+## 📌 개요  
+과녁을 조준해 제한 시간 내 목표 점수를 달성하면 승리하는 간단한 1인칭 슈팅 게임입니다.
+
+---
+
+## 🧩 제작한 블루프린트
+
+| 블루프린트 | 역할 |
+|------------|------|
+| **무기 (BP_Rifle)** | 사격 입력 처리, 히트 판정 |
+| **총알 (BP_Bullet)** | 타겟과의 충돌 처리 |
+| **게임모드 (BP_GameMode)** | 점수 계산, 타이머, 클리어 조건 관리 |
+| **UI (BP_HUD / Widget)** | 실시간 점수 및 시간 표시 |
+
+---
+
+## 📚 참고자료  
+[📺 UE5 타겟 슈팅 튜토리얼 by 쩡도마 (Underscore)](https://www.youtube.com/watch?v=1XjgLKrb4_M&t=9102s)
