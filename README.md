@@ -20,4 +20,4 @@
 ---
 
 ## 📚 참고자료  
-[📺 UE5 타겟 슈팅 튜토리얼 by 쩡도마 (Underscore)](https://www.youtube.com/watch?v=1XjgLKrb4_M&t=9102s)
+[📺 UE5 타겟 슈팅 튜토리얼](https://www.youtube.com/watch?v=1XjgLKrb4_M&t=9102s)
